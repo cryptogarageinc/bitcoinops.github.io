@@ -52,7 +52,7 @@ lang: ja
 [dlcspecs]: https://github.com/discreetlogcontracts/dlcspecs/
 [scriptless scripts examples]: https://github.com/ElementsProject/scriptless-scripts
 [whatsat]: https://github.com/joostjager/whatsat
-[news72 sphinx]: /en/newsletters/2019/11/13/#possible-privacy-leak-in-the-ln-onion-format
+[news72 sphinx]: /ja/newsletters/2019/11/13/#ln-1
 [river twitter thread]: https://twitter.com/philipglazman/status/1216849483184476165
 [wasabi rbf notification]: https://bitcoinops.org/en/compatibility/wasabi/#receive-notification
 [wasabi rbf signaling]: https://github.com/zkSNACKs/WalletWasabi/pull/2405
